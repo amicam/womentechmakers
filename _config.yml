@@ -68,16 +68,16 @@ heroButtons:
 # About Block
 aboutTitle: "About Women Techmakers Nouakchott"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conférence", image: "conference.jpg", text: "Le plus grand événement lié femmes dans le pays soigneusement conçu pour vous par la communauté GDG! Speakers impressionnants et beaucoup de plaisir" }
+ - {title: "Atélier", image: "workshop.jpg", text: "Journée complète d'ateliers, expérience pratique, le piratage et le débogage. Venez apprivoiser votre technologie préférée!" }
+ - {title: "Discussion", image: "hackathon.jpg", text: "La femme et l'avenir de la Technologie en Mauritanie, Les Hommes aussi sont presents!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "150", specialCharacter: "+", info: "Participant", detail: "Designers, développeurs, entrepreneurs et etudiant"}
+ - {count: "8", specialCharacter: "+", info: "Heures", detail: "pure de la technologies"}
+ - {count: "5", specialCharacter: "+", info: "Speakers", detail: "Expert"}
  
 # Latest News Block
 latestNewsTitle: "Latest news"
